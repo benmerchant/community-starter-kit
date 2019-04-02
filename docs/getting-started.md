@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+1. **Installation:** npm install the-complete-works-of-james-joyce
+1. **Configuration:** start with *Ulysses*
+1. **Main Function:** learn about yourself 
+
