@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- This is an app
+- Check it out
+- It's great
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- It takes widgets and converts them to cogs
+- Yeah, not super creative on these
+- Enjoying the courses though
 
 ## Getting started
 
